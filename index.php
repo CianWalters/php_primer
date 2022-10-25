@@ -24,6 +24,8 @@
     echo "<h1>My Name Is: $name </h1>";  // When double qoutation is used ("") you don't need to concatinate with (.)
 ?>
 <button type="button" class="btn btn-dark">Click Me</button>
+<button type="button" class="btn btn-primary">Click Me</button>
+<button type="button" class="btn btn-success">Click Me</button>
 
 
 
